@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    // 其他配置...
+  }
+}
